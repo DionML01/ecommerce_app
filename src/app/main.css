@@ -1,0 +1,25 @@
+.main {
+  max-width: 1920px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+@media (max-width: 900px) {
+}
+
+@media (max-width: 600px) {
+  .main {
+    max-width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 40px;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+}
